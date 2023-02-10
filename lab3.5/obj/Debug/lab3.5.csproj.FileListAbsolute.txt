@@ -1,0 +1,8 @@
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 8 - 07022023\lab3.5\bin\Debug\lab3.5.exe.config
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 8 - 07022023\lab3.5\bin\Debug\lab3.5.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 8 - 07022023\lab3.5\bin\Debug\lab3.5.pdb
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 8 - 07022023\lab3.5\obj\Debug\lab3.5.csproj.AssemblyReference.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 8 - 07022023\lab3.5\obj\Debug\lab3.5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 8 - 07022023\lab3.5\obj\Debug\lab3.5.csproj.CoreCompileInputs.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 8 - 07022023\lab3.5\obj\Debug\lab3.5.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 8 - 07022023\lab3.5\obj\Debug\lab3.5.pdb
